@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Killer": {
+      "commandName": "Project",
+      "commandLineArgs": "10 3 2"
+    }
+  }
+}
